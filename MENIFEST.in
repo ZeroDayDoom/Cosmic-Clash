@@ -1,0 +1,5 @@
+include myfile/assets/images/space.png
+include myfile/assets/images/spaceship_red.png
+include myfile/assets/images/spaceship_yellow.png
+include myfile/assets/sound/Grenade+1.mp3
+include myfile/assets/sound/Gun+Silencer.mp3
